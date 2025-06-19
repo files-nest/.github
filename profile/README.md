@@ -24,7 +24,9 @@ https://tally.so/r/w7Ovv9
 
 ## How to
 
-### Login
+<details>
+<summary>In-app Login</summary>
+
 1. Enter your server URL
 2. Enter your email and password
 3. Success 🎉
@@ -32,3 +34,5 @@ https://tally.so/r/w7Ovv9
 ![enter-url](images/enter-url.png)
 ![email-password](images/email-password.png)
 ![success](images/success.png)
+
+</details>
